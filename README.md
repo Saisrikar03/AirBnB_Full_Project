@@ -2,8 +2,8 @@ TABLEAU FULL PORTFOLIO PROJECT
 
 OVERVIEW
 
-This project showcases an end-to-end Tableau data analysis and visualization workflow using Airbnb listings data.
-The goal is to analyze pricing, availability, and location trends and present them through an interactive dashboard.
+* This project showcases an end-to-end Tableau data analysis and visualization workflow using Airbnb listings data.
+* The goal is to analyze pricing, availability, and location trends and present them through an interactive dashboard.
 
 The dashboard is published using Tableau Public and embedded on GitHub Pages.
 
@@ -14,21 +14,21 @@ View the interactive dashboard here:
 
 DASHBOARD HIGHLIGHTS
 
-Average price comparison by number of bedrooms
+* Average price comparison by number of bedrooms
 
-Distribution of listings across bedroom categories
+* Distribution of listings across bedroom categories
 
-Price variation across different zipcodes
+* Price variation across different zipcodes
 
-Geographic price distribution using a map view
+* Geographic price distribution using a map view
 
-Revenue trends across the year
+* Revenue trends across the year
 
 PROJECT FILES
 
-AirBnB_Full_Project.twbx – Tableau packaged workbook
+* AirBnB_Full_Project.twbx – Tableau packaged workbook
 
-index.html – Used to embed the Tableau dashboard on GitHub Pages
+* index.html – Used to embed the Tableau dashboard on GitHub Pages
 
 DATA SOURCE
 
@@ -37,9 +37,12 @@ The Tableau workbook is built using the full dataset, while any reduced files we
 
 TOOLS USED
 
-Tableau Public
+* Tableau Public
 
-Microsoft Excel
+* Microsoft Excel
 
-GitHub Pages
+👤 AUTHOR
 
+Sai Srikar Goranta 
+
+Aspiring Data Analyst | SQL | Data Cleaning | Analytics
